@@ -43,10 +43,3 @@ Si quieres contribuir al proyecto, sigue estos pasos:
     Haz tus cambios y realiza un commit: git commit -m "añadido una nueva funcionalidad"
     Sube tus cambios: git push origin mi-nueva-funcionalidad
     Crea un pull request en GitHub
-
-Autor
-
-Este proyecto fue creado por Juan Pérez.
-Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
